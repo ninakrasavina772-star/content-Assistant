@@ -1,0 +1,44 @@
+{
+  "app\\compare\\page.tsx -> @/lib/brandFileImport": {
+    "id": "app\\compare\\page.tsx -> @/lib/brandFileImport",
+    "files": [
+      "static/chunks/_app-pages-browser_lib_brandFileImport_ts.js"
+    ]
+  },
+  "app\\compare\\page.tsx -> @/lib/excludeIdsFileImport": {
+    "id": "app\\compare\\page.tsx -> @/lib/excludeIdsFileImport",
+    "files": [
+      "static/chunks/_app-pages-browser_lib_excludeIdsFileImport_ts.js"
+    ]
+  },
+  "app\\compare\\page.tsx -> @/lib/exportOnlyB": {
+    "id": "app\\compare\\page.tsx -> @/lib/exportOnlyB",
+    "files": [
+      "static/chunks/_app-pages-browser_lib_exportOnlyB_ts.js"
+    ]
+  },
+  "lib\\brandFileImport.ts -> xlsx": {
+    "id": "lib\\brandFileImport.ts -> xlsx",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_xlsx_xlsx_mjs.js"
+    ]
+  },
+  "lib\\excludeIdsFileImport.ts -> xlsx": {
+    "id": "lib\\excludeIdsFileImport.ts -> xlsx",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_xlsx_xlsx_mjs.js"
+    ]
+  },
+  "lib\\exportOnlyB.ts -> xlsx": {
+    "id": "lib\\exportOnlyB.ts -> xlsx",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_xlsx_xlsx_mjs.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  }
+}
